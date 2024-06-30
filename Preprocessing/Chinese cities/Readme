@@ -1,0 +1,2 @@
+By processing the script 'data_process.py', the originally crawled check-in data can be screened to a given geographical area on a given date and transformed into a data format as shown in 'Example result 1.txt'.
+Then, by operating the script 'Data array transform.py', the data with the format shown in 'Example result 1.txt' can be coverted to location-based time series data as shown in 'Example result 2.csv'.
