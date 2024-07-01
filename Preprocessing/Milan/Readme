@@ -1,1 +1,2 @@
-
+By processing the script 'dataprocessing.m', the original data with the format as shown in 'Sample data.txt' can be transformed to grid-based time series data format with the 10-minute interval (e.g., 'Example result 3.csv').
+By processing the script 'combinematrix.m', we can combine the records to generate the grid-based time series with the 20-minute interval.
