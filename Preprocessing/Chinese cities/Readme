@@ -1,4 +1,0 @@
-By processing the script 'data_process.py', the originally crawled check-in data can be screened to a given geographical area on a given date and transformed into a data format as shown in 'Example result 1.txt'.
-Then, by operating the script 'Data array transform.py', the data with the format shown in 'Example result 1.txt' can be coverted to location-based time series data as shown in 'Example result 2.csv'.
-By creating fishnet in ArcGIS, we can spatially establish a grid-based reference and associate the location-based time series data (e.g., 'Example result 2.csv') with it.
-By processing the script 'fishnet data.py' and 'Fishnet delete null rows', we can combine the records within the same grid and remove those grids without any records to finally form grid-based time series data.
