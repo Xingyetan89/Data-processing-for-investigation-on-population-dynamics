@@ -1,0 +1,3 @@
+By processing the script 'Calculate_TWDFA.m', we can estimate the mean fluctuations over time scales by using the temporally weighted detrended fluctuation analysis (TWDFA) for a grid-based time series data such as 'sample time series.csv'
+
+By processing the script 'Calculate_DFA_coefficients.m', we can estimate the temporal scaling exponent (also called DFA coefficient) for the mean fluctuations (e.g., 'Fs_results.csv') over time scales.
