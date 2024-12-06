@@ -1,1 +1,0 @@
-By processing the script 'Fs_estimation.m', we can estimate the mean fluctuation based on the given spatiotemporal scales and parameters as well as compare the prediction with the observation. (e.g., 'Avg_Fs.csv')
